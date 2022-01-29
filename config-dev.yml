@@ -1,2 +1,2 @@
-server:
-  port: 3344
+config:
+  info: "main branch, spiringcloud-config.yml version=1"
